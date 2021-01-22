@@ -1,4 +1,6 @@
-# web
+# About
+
+Web app.
 
 ## Build Setup
 
